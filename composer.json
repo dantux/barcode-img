@@ -1,0 +1,7 @@
+{
+    "name": "marian/barcode-img",
+    "description": "Generates barcode images",
+    "require": {
+        "php": ">=5.3.0"
+    }
+}
